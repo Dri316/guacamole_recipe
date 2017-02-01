@@ -1,6 +1,7 @@
 * avocado
 * white onion
 * salt
-* Lime
+* lime
 * garlic
 * koriander
+* chilli
